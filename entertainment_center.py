@@ -40,8 +40,8 @@ roxanne = media.Movie(
 planes_trains_and_automobiles = media.Movie(
     "Planes, Trains and Automobiles",
     "1h 33m",
-    "Together they must overcome the insanity of holiday travel to reach their "
-    "intended destination.",
+    "Together they must overcome the insanity of holiday travel to reach "
+    "their intended destination.",
     "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Planes_trains_and_automobiles.jpg/215px-Planes_trains_and_automobiles.jpg",  # noqa
     "https://www.youtube.com/watch?v=VWGqGHMO294"
     )

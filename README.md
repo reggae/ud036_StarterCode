@@ -29,7 +29,7 @@ IDLE (optional)
 
 * Open entertainment_center.py from the application's 'File' menu
 
-* On IDLE's 'Run' menu dropdown, click on 'Run Module' or press F5
+* On IDLE's 'Run' menu drop down, click on 'Run Module' or press F5
     
 
 ### The web browser will open with the movie list
