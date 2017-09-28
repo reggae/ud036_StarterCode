@@ -20,7 +20,7 @@ IDLE (optional)
 ### Using Terminal
 * Open a terminal, then navigate to the repository's directory
 
-* Run the command to execute the program:
+* Run the following command to execute the program:
 
   `python entertainment_center.py` 
 
